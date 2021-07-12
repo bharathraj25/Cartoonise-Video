@@ -13,6 +13,6 @@ regions in the image. This technique is basically used for Colour reduction in i
 3.Enjoy the effect.</br>
 
 <p>
-<img src="" width="400" height="350">  
-<img src="" width="400" height="350">
+<img src="https://github.com/bharathraj25/Cartoonise-Video/blob/52d5953909fa8291346a9826e574dd80d82833b4/Sample%20Screenshots/Sample1.png" width="400" height="350">  
+<img src="https://github.com/bharathraj25/Cartoonise-Video/blob/52d5953909fa8291346a9826e574dd80d82833b4/Sample%20Screenshots/Sample2.png" width="400" height="350">
 </p>
